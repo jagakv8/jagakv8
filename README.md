@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+ML;Turning+data+and+models+into+real-world+products" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Profile views: alternative counter service -->
-<img src="https://viewcounter.live/jagakv8?label=Profile%20Views&bg_color=8b5cf6&text_color=FFFFFF&rounded=true" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/jagakv8?label=Followers&style=for-the-badge&logo=github&color=6d28d9&labelColor=1e1b4b" alt="followers" />
-
 </div>
 
 ---
@@ -129,16 +122,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jagakv8&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagakv8&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" height="180" alt="Top languages" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=jagakv8&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagakv8&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=FFFFFF" width="100%" alt="Contribution graph" />
 </div>
 
 ---
@@ -157,7 +142,7 @@
 ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
 ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
 ██████╔╝██║   ██║██║██║     ██║  ██║██║╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║║╚██╗██║██║   ██║
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
 ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
 ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
 
